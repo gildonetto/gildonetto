@@ -1,16 +1,18 @@
 # 👨🏻‍💻 Gildo Neto
 
-**`Estudante de Ciência da Computação`**
+**`Computer Science Student`**
 
-Me chamo Gildo Neto, tenho 20 anos e sou do Brasil 🇧🇷. Atualmente, estou cursando Ciência da Computação e desenvolvendo minhas habilidades na área de tecnologia.
+Hi! I'm Gildo Neto, a 20-year-old Computer Science student from Brazil 🇧🇷.
 
-Sou apaixonado por Ciência da Computação e gosto de aprender como a tecnologia funciona, principalmente através da programação e da criação de projetos. Atualmente, estou estudando e aprimorando meus conhecimentos em **JavaScript, Python e Java**, enquanto construo projetos para colocar em prática o que estou aprendendo.
+I'm passionate about Computer Science and technology, and I enjoy learning how things work and turning ideas into real projects through code.
 
-Estou sempre buscando aprender algo novo, melhorar minha lógica de programação e evoluir como desenvolvedor, um projeto de cada vez. 🚀
+I'm currently learning and improving my skills in **JavaScript, Python, and Java**, while building personal projects and strengthening my programming fundamentals.
+
+I'm always looking for opportunities to learn something new, improve my problem-solving skills, and grow as a developer — one project at a time. 🚀
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
  align="left" 
